@@ -1,0 +1,9 @@
+[user]
+  name = Joey Ferris
+  email = joey@joeyferris.io
+  username = josephferris
+
+[color "status"]
+  added = green bold
+  changed = yellow bold
+  untracked = red bold
